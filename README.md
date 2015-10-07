@@ -1,2 +1,2 @@
 # Arduino-Debouncer
-Debounc Arduino Switches for Arduino
+Debounce Arduino Switches for Arduino
