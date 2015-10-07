@@ -1,8 +1,11 @@
-/*
-  Debounce.h - Library for debouncing Pin
-  Created by Simon Aeschbacher, September 28, 2015
-  Released into the public domain.
-*/
+/*************************************
+  Filename: Debounce.cpp
+  Version: v0.01
+  last update: 28. September 2015
+  Purpose: Debouncing Switches
+  Author: Simon Aeschbacher
+  Licence: GPLv2
+*************************************/
 
 #if ARDUINO >= 100
  #include "Arduino.h"
