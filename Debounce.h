@@ -33,7 +33,7 @@ class Debounce
   private:
     boolean _db(void);
 
-    int  	_pin;
+    	int  	_pin;
 	boolean _pullup;
 	boolean _hur;
 	int     _cycles = 20;
